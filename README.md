@@ -6,3 +6,4 @@ Work in progress
 * https://color.adobe.com/fr/explore/most-popular/?time=all
 * http://designspiration.net/ (color at top)
 * http://qrohlf.com/trianglify-generator/
+* http://flexible.gs/colors
