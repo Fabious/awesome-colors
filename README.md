@@ -7,3 +7,7 @@ Work in progress
 * http://designspiration.net/ (color at top)
 * http://qrohlf.com/trianglify-generator/
 * http://flexible.gs/colors
+
+## APP
+
+* http://www.eigenlogik.com/spectrum/mac
